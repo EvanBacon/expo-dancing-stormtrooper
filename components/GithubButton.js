@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Text, View, TouchableOpacity, Linking, StyleSheet } from 'react-native';
 
-const url = ""
+const url = "https://github.com/EvanBacon/expo-dancing-stormtrooper"
 export default class GithubButton extends Component {
   render() {
     return (
