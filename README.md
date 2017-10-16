@@ -1,5 +1,3 @@
-# expo-dancing-stormtrooper
-
 Dancing Stormtrooper
 ========
 
