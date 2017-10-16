@@ -9,7 +9,6 @@ Expo: https://exp.host/@bacon/stormtrooper
 
 Stack:
 
-- [React native](https://facebook.github.io/react-native/)
 - [Expo](http://expo.io)
 - [THREE.js](https://threejs.org/)
 
