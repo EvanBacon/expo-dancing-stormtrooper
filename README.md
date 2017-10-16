@@ -5,7 +5,7 @@ Dancing Stormtrooper
 
 Expo: https://exp.host/@bacon/stormtrooper
 
-![star wars puns..](https://media.giphy.com/media/l378zX1Jsa4OULmbS/giphy.gif?raw=true "this is not the gif you are looking for")
+![star wars puns..](./demo.gif?raw=true "this is not the gif you are looking for")
 
 ----
 
